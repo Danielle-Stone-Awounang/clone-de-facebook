@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">facebook compose</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+</resources>
